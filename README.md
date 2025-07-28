@@ -48,6 +48,7 @@ Fun Queue는 **테마파크에서의 지루한 대기 시간**을 **게임 기�
 
 - `FunQueue_Prototype.pdf` – 프로토타입
 - `FunQueue_PitchDeck.pdf` – 발표 자료
+- 데모영상
 
 ---
 
@@ -62,3 +63,11 @@ Fun Queue는 **테마파크에서의 지루한 대기 시간**을 **게임 기�
 ## 📽 데모 영상
 
 [▶️ Click here to watch the demo video](https://drive.google.com/file/d/1NIH_rilKUGQDKUW4FhmesbOrQ0rRMMLJ/view?usp=drive_link)
+
+## 🖱 Interactive Prototype
+
+👉 [Click here to try the Fun Queue prototype on Figma](https://www.figma.com/proto/Mv4yhQudDifVoSPDlNjIvY/FunQueue---prototype?page-id=0%3A1&node-id=1-2883&p=f&viewport=-167%2C169%2C0.17&t=mi6tVu06XARoRDf9-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2883)
+
+- Designed using Figma
+- Built through Design Sprint 2.0 methodology
+- Includes user flow, UI mockups, and interaction logic
